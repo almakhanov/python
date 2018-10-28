@@ -71,8 +71,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dataMaker.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="86">
-              <caret line="18" column="53" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+            <state relative-caret-position="374">
+              <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -95,6 +95,9 @@
       <find>face</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -114,6 +117,7 @@
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -126,16 +130,6 @@
             <path>
               <item name="face-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="face-test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="face-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="face-test" type="462c0819:PsiDirectoryNode" />
-              <item name="dataSet" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="face-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="face-test" type="462c0819:PsiDirectoryNode" />
-              <item name="trainer" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="face-test" type="b2602c69:ProjectViewProjectNode" />
@@ -403,8 +397,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dataMaker.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="18" column="53" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+        <state relative-caret-position="374">
+          <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
